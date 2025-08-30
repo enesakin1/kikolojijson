@@ -22,11 +22,11 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://kikoloji.com/",
   "display": "standalone",
   "theme_color": "#2563eb",
   "background_color": "#ffffff",
-  "scope": "/",
+  "scope": "https://kikoloji.com/",
   "orientation": "portrait-primary",
   "categories": [
     "iş",
