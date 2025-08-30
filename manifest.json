@@ -1,0 +1,58 @@
+{
+  "short_name": "Kikoloji",
+  "name": "Kikoloji - Kamu İhale Kurumu Kararları ile İlgili Her Şey",
+  "description": "Kikoloji ile KİK kararlarını arayın, inceleyin ve analiz edin. İhale kararları, tedarik zinciri, ihale türleri ve yöntemleri hakkında detaylı bilgi bulun.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "scope": "/",
+  "orientation": "portrait-primary",
+  "categories": [
+    "iş",
+    "verimlilik",
+    "araçlar",
+    "kamu ihaleleri",
+    "ihale mevzuatı",
+    "kik",
+    "kamu ihale kurumu",
+    "ihale kararları",
+    "tedarik zinciri",
+    "ihale türleri",
+    "ihale yöntemleri",
+    "ihale mevzuatı",
+    "kamu ihaleleri"
+  ],
+  "lang": "tr-TR",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "screenshots": [
+    {
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
